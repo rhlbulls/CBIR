@@ -1,0 +1,11 @@
+feat0,feat1,feat2,feat3,feat4,depth,distance,MMAP
+color,daisy,edge,gabor,hog,None,d1,0.47981927749084613
+color,daisy,edge,gabor,hog,300,d1,0.47981927749084613
+color,daisy,edge,gabor,hog,200,d1,0.47981927749084613
+color,daisy,edge,gabor,hog,100,d1,0.47981927749084613
+color,daisy,edge,gabor,hog,50,d1,0.47981927749084613
+color,daisy,edge,gabor,hog,30,d1,0.47981927749084613
+color,daisy,edge,gabor,hog,10,d1,0.5089836860670194
+color,daisy,edge,gabor,hog,5,d1,0.5247685185185186
+color,daisy,edge,gabor,hog,3,d1,0.46296296296296297
+color,daisy,edge,gabor,hog,1,d1,0.3333333333333333
